@@ -1,5 +1,4 @@
 ### Hi there 👋, my name is Val
-![](http://image.noelshack.com/fichiers/2022/36/3/1662564344-banner.jpg)
 
 I am a 16yo developer
 
