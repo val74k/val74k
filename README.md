@@ -11,4 +11,4 @@ Skills: Python / HTML / CSS / JS
 ![Profile views](https://gpvc.arturio.dev/valdemort74)  
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/valdemort74)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/valdemort74)  [<img src='http://image.noelshack.com/fichiers/2022/36/3/1662564625-valweb.png' alt='website' height='40'>](valweb.space)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/valdemort74)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/valdemort74)  [<img src='http://image.noelshack.com/fichiers/2022/36/3/1662564625-valweb.png' alt='website' height='40'>](http://valweb.space)  
