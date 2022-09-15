@@ -2,7 +2,16 @@
 
 I am a 16yo developer
 
-Skills: Python / HTML / CSS / JS
+
+Skills: 
+
+    language :
+        Python / HTML / CSS / JS
+        
+    software
+        Filezilla / WampServer
+        Photoshop / illustrator / Vegas Pro / premiere Pro
+        
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valdemort74)](https://github.com/anuraghazra/github-readme-stats)
 
